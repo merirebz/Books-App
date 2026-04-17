@@ -79,7 +79,7 @@ function App() {
         </div>
 
         <div className="hero-right">
-          <img src="./pictures/header.png" alt="books" />
+          <img src="./header.png" alt="books" />
         </div>
       </div>
 
