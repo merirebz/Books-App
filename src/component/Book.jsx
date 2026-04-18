@@ -8,7 +8,7 @@ function App() {
   const inputRef = useRef(null);
   const resultRef = useRef(null);
 
-  const apiKey = "AIzaSyBFjCpbi0TrqN-l_rlvASJHPeeFppctDF8";
+  const apiKey = "your_api_key_here";
 
   function handleChange(e) {
     setBook(e.target.value);
