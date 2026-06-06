@@ -66,7 +66,7 @@ function App() {
           <form onSubmit={handleSubmit}>
             <input
               ref={inputRef}
-              placeholder="BOOK TITLE"
+              placeholder="TITLE"
               className="input-box"
               type="text"
               value={book}
