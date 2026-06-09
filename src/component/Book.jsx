@@ -60,7 +60,7 @@ function App() {
         <div className="hero-left">
           <h1 className="title-main">Discover Your Next Favorite Book 📚</h1>
           <p className="desc">
-             Explore thousands of books from every genre. Search by title and find the perfect read in seconds.
+             Explore thousands of books from every genre. Search by title and find the perfect read.
           </p>
 
           <form onSubmit={handleSubmit}>
