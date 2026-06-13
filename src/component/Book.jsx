@@ -46,7 +46,7 @@ function App() {
         <ul className="nav-links">
           <li>CATALOGUE</li>
           <li>GALLERY</li>
-          <li>ABOUT US</li>
+          <
           <li>CONTACT</li>
         </ul>
 
